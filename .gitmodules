@@ -1,0 +1,3 @@
+[submodule "moveio/dbus-cxx"]
+	path = moveio/dbus-cxx
+	url = https://github.com/psukys/dbus-cxx
